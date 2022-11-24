@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @junianto3695
 - 👀 I’m interested in php especially laravel framework
-- 🌱 I’m currently learning golang for future development
 - 📫 How to reach me
   - Email : junianto3695@gmail.com
 
